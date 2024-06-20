@@ -35,7 +35,7 @@ TUdelft second year student, interested in urban micro-climate.
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">18th 3D Geoinfo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">18th 3D Geoinfo</div><img src='images/result01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Shadowing Calculation on Urban Areas from Semantic 3D City Models](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_2)
