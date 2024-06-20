@@ -23,13 +23,13 @@ TUdelft second year student, interested in urban micro-climate.
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2022.09 - 2024.11 (now)*, Delft University of Technology, Netherlands, (GPA 8/10, Honours Programme)
-- *2020.09 - 2022.06*, University of Waterloo, Canada, (GPA 88/100, Graduated with Dean's Honours)
-- *2018.09 - 2022.06*, China University of Geosciences Beijing, China, (GPA 87/100)
+- *2022.09 - 2024.11 (now)* Delft University of Technology, Netherlands, (GPA 8/10, Honours Programme)
+- *2020.09 - 2022.06* University of Waterloo, Canada, (GPA 88/100, Graduated with Dean's Honours)
+- *2018.09 - 2022.06* China University of Geosciences Beijing, China, (GPA 87/100)
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Passed Honours Programme at TU Delft.
+- *2024.04* &nbsp;🎉🎉 Passed Honours Programme at TU Delft.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
@@ -49,9 +49,9 @@ In this paper, we present our method to perform shadowing calculations in urban 
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
-- *2022.06* Graduated with Dean's Honours
+- *2022.06* Graduated with Dean's Honours， University of Waterloo
 - *2021.12* Academic Standing of Term Distinction, University of Waterloo
-- *2021.16* Academic Standing of Term Distinction, University of Waterloo
+- *2021.06* Academic Standing of Term Distinction, University of Waterloo
 - *2020.12* Academic Standing of Term Distinction, University of Waterloo
 - *2021.10* Association of Ontario Land Surveyors Award, University of Waterloo
 - *2019.10* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing. 
@@ -66,4 +66,4 @@ In this paper, we present our method to perform shadowing calculations in urban 
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2021.21 - 2022.07*, Computer Network Information Center, Chinese Academy of Sciences, China.
+- *2021.21 - 2022.07* Big Data Analysis Intern, Computer Network Information Center, Chinese Academy of Sciences, China.
