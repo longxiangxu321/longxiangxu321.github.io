@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Longxiang Xu"
-description              : "Personal webpage of Longxiang Xu "
-repository               : "xlx552414534/leonxu.github.io"
+description              : "Master Geomatics student at TU Delft"
+repository               : "longxiangxu321/longxiangxu321.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : xlx552414534
+  github           : longxiangxu321
   google_plus      :
   keybase          :
   instagram        :

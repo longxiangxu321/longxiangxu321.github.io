@@ -21,6 +21,13 @@ TUdelft second year student, interested in urban micro-climate.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<span class='anchor' id='education'></span>
+# 📖 Education
+- *2022.09 - 2024.11 (now)*, Delft University of Technology, Netherlands, (GPA 8/10)
+- *2020.09 - 2022.06*, University of Waterloo, Canada, (GPA 88/100)
+-- Graduated with Dean's Honours
+- *2018.09 - 2022.06*, China University of Geosciences Beijing, China, (GPA 87/100)
+
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 Passed Honours Programme at TU Delft.
@@ -36,14 +43,14 @@ TUdelft second year student, interested in urban micro-climate.
 **Longxiang Xu**, Camilo León-Sánchez, Giorgio Agugiaro, Jantien Stoter
 
 [**Code**](https://github.com/longxiangxu321/3DCity_Shadow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Nowadays, our society is in the transit to adopt more sustainable energy sources to reduce our impact on the environment; one alternative is solar energy. However, this is highly affected by the surroundings, which might cause shadowing effects. In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, which is split into five sections: Point Grid Generation, Sun-Ray Generation, Nightside Filtering, Bounding Volume Hierarchy and the intersection between the sun rays and the BVH to identify which locations are shadowed at a given moment (epoch). Our tests are performed in Rotterdam{\textquoteright}s city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
+In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, which is split into five sections: Point Grid Generation, Sun-Ray Generation, Nightside Filtering, Bounding Volume Hierarchy and the intersection between the sun rays and the BVH to identify which locations are shadowed at a given moment (epoch). Our tests are performed in Rotterdam{\textquoteright}s city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
 </div>
 </div>
 
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
-- *2022.06* Graduated wit Dean's Honours
+- *2022.06* Graduated with Dean's Honours
 - *2021.12* Academic Standing of Term Distinction, University of Waterloo
 - *2021.16* Academic Standing of Term Distinction, University of Waterloo
 - *2020.12* Academic Standing of Term Distinction, University of Waterloo
@@ -51,12 +58,7 @@ Nowadays, our society is in the transit to adopt more sustainable energy sources
 - *2019.10* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing. 
 - *2019.06* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing.  
 
-<span class='anchor' id='education'></span>
-# 📖 Education
-- *2022.09 - 2024.11 (now)*, Delft University of Technology, Netherlands, (GPA 8/10)
-- *2020.09 - 2022.06*, University of Waterloo, Canada, (GPA 88/100)
--- Graduated with Dean's Honours
-- *2018.09 - 2022.06*, China University of Geosciences Beijing, China, (GPA 87/100)
+
 
 <span class='anchor' id='talks'></span>
 # 💬 Talks
