@@ -23,60 +23,46 @@ TUdelft second year student, interested in urban micro-climate.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 Passed Honours Programme at TU Delft.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">18th 3D Geoinfo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Shadowing Calculation on Urban Areas from Semantic 3D City Models](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_2)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Longxiang Xu**, Camilo León-Sánchez, Giorgio Agugiaro, Jantien Stoter
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/longxiangxu321/3DCity_Shadow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Nowadays, our society is in the transit to adopt more sustainable energy sources to reduce our impact on the environment; one alternative is solar energy. However, this is highly affected by the surroundings, which might cause shadowing effects. In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, which is split into five sections: Point Grid Generation, Sun-Ray Generation, Nightside Filtering, Bounding Volume Hierarchy and the intersection between the sun rays and the BVH to identify which locations are shadowed at a given moment (epoch). Our tests are performed in Rotterdam{\textquoteright}s city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06* Graduated wit Dean's Honours
+- *2021.12* Academic Standing of Term Distinction, University of Waterloo
+- *2021.16* Academic Standing of Term Distinction, University of Waterloo
+- *2020.12* Academic Standing of Term Distinction, University of Waterloo
+- *2021.10* Association of Ontario Land Surveyors Award, University of Waterloo
+- *2019.10* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing. 
+- *2019.06* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing.  
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2024.11 (now)*, Delft University of Technology, Netherlands, (GPA 8/10)
+- *2020.09 - 2022.06*, University of Waterloo, Canada, (GPA 88/100)
+-- Graduated with Dean's Honours
+- *2018.09 - 2022.06*, China University of Geosciences Beijing, China, (GPA 87/100)
 
 <span class='anchor' id='talks'></span>
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- awawdawdad
-- awawdawdad
+# 💬 Talks
+- *2024.04*, Urban solar potential analysis through semantic 3D city models, at [4 TU Research Day](https://www.thuas.com/about-thuas/events-activities/research-day-digitalization-built-environment)
 
-<span class='anchor' id='interships'></span>
+
+<span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.21 - 2022.07*, Computer Network Information Center, Chinese Academy of Sciences, China.
