@@ -41,7 +41,7 @@ TUdelft second year student, interested in urban micro-climate.
 **Longxiang Xu**, Camilo León-Sánchez, Giorgio Agugiaro, Jantien Stoter
 
 [**Code**](https://github.com/longxiangxu321/3DCity_Shadow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, which is split into five sections: Point Grid Generation, Sun-Ray Generation, Nightside Filtering, Bounding Volume Hierarchy and the intersection between the sun rays and the BVH to identify which locations are shadowed at a given moment (epoch). Our tests are performed in Rotterdam's city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
+In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, with Nightside Filtering and Bounding Volume Hierarchy for city-scale analysis acceleration. Our tests are performed in Rotterdam's city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
 </div>
 </div>
 
