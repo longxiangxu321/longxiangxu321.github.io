@@ -53,8 +53,8 @@ In this paper, we present our method to perform shadowing calculations in urban 
 - *2021.06* Academic Standing of Term Distinction, University of Waterloo
 - *2020.12* Academic Standing of Term Distinction, University of Waterloo
 - *2021.10* Association of Ontario Land Surveyors Award, University of Waterloo
-- *2019.10* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing. 
-- *2019.06* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing.  
+- *2020.06* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing. 
+- *2019.10* First-Class Academic Scholarship (Top 2%), China University of Geosciences Beijing.  
 
 
 
