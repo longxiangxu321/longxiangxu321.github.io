@@ -60,7 +60,8 @@ In this paper, we present our method to perform shadowing calculations in urban 
 
 <span class='anchor' id='talks'></span>
 # 💬 Talks
-- *2024.04*, Urban solar potential analysis through semantic 3D city models, at [4 TU Research Day](https://www.thuas.com/about-thuas/events-activities/research-day-digitalization-built-environment)
+- *(Upcoming) 2024.07*, Solar irradiance computation in urban areas by means of semantic 3D city models, at [NCG Symposium 2024](https://sites.google.com/view/ncgsymposium2024/)
+- *2024.04*, Urban solar potential analysis through semantic 3D city models, at [4TU Research Day](https://www.thuas.com/about-thuas/events-activities/research-day-digitalization-built-environment)
 
 
 <span class='anchor' id='internships'></span>
