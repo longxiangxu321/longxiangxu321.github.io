@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-TUdelft second year student, interested in urban micro-climate.
+I am a second year Master Geomatics Student at Delft University of Technology. I am interested in urban micro-climate modelling, deep learning, computer vision, computer graphics, 3D reconstruction. I believe high-resolution (spatial, temporal, and semantic) micro-climate prediction can significantly help to improve energy efficiency.
 
 
 <span class='anchor' id='education'></span>
