@@ -33,18 +33,6 @@ I am a second year Master Geomatics Student at Delft University of Technology. I
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">18th 3D Geoinfo</div><img src='images/result01.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Shadowing Calculation on Urban Areas from Semantic 3D City Models](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_2)
-
-**Longxiang Xu**, Camilo León-Sánchez, Giorgio Agugiaro, Jantien Stoter
-
-[**Code**](https://github.com/longxiangxu321/3DCity_Shadow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, with Nightside Filtering and Bounding Volume Hierarchy for city-scale analysis acceleration. Our tests are performed in Rotterdam's city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">19th 3D Geoinfo</div><img src='images/utrecht.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,6 +45,17 @@ Solar energy is becoming increasingly important with the transition towards gree
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">18th 3D Geoinfo</div><img src='images/result01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Shadowing Calculation on Urban Areas from Semantic 3D City Models](https://link.springer.com/chapter/10.1007/978-3-031-43699-4_2)
+
+**Longxiang Xu**, Camilo León-Sánchez, Giorgio Agugiaro, Jantien Stoter
+
+[**Code**](https://github.com/longxiangxu321/3DCity_Shadow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+In this paper, we present our method to perform shadowing calculations in urban areas using semantic 3D city models, with Nightside Filtering and Bounding Volume Hierarchy for city-scale analysis acceleration. Our tests are performed in Rotterdam's city center, a dense urban area in The Netherlands. Our initial results indicate that the computational time per 100 k grid points fluctuates within 0.2–0.7s.
+</div>
+</div>
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
