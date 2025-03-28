@@ -22,7 +22,7 @@ I am a second year Master Geomatics Student at Delft University of Technology. I
 
 <span class='anchor' id='education'></span>
 # 📖 Education
-- *2022.09 - 2024.11 (now)* Delft University of Technology, Netherlands, (GPA 8/10, Honours Programme)
+- *2022.09 - 2024.10* Delft University of Technology, Netherlands, (GPA 8/10, Honours Programme)
 - *2020.09 - 2022.06* University of Waterloo, Canada, (GPA 88/100, Graduated with Dean's Honours)
 - *2018.09 - 2022.06* China University of Geosciences Beijing, China, (GPA 87/100)
 
